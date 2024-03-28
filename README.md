@@ -6,7 +6,7 @@ Le dépôt officiel du challenge est ici : https://github.com/tjukanovt/30DayMap
 
 Note 1 : j'ai démarré le travail beaucoup trop tard pour participer en direct et publier sur les réseaux.
 
-Note 2 : mon objectif principal est de perfectionner ma pratique des outils. La recherche d'une problématique à cartographier et l'assurance de sa clarté sont des considérations secondaires.
+Note 2 : mon objectif principal est de perfectionner ma pratique des outils.
 
 ![Themes for 30DayMapChallenge 2023](/30dmc-2023.png)
 
